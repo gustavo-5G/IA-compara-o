@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+.img {
+    height: 200px;
+    width: 200px;
+    margin-left: 34px;
+    margin-right: 34px;
+}
+#conclusao{
+    background-color: black;
+    color: white;
+    font-size: 17px;
+}
+
